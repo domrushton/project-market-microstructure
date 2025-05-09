@@ -1,0 +1,1 @@
+Simulating a limit order book to explore several order book models, starting with the Queue Reactive model before using deep learning to analyse the Deep Queue Reactive model and the Multidimensional Deep Queue Reactive model.
